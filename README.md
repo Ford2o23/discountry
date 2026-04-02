@@ -56,3 +56,7 @@
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/discountifu)
 [![Website](https://img.shields.io/badge/ritmex.one-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ritmex.one)
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
